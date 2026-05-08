@@ -1,0 +1,38 @@
+.home-about-us-bg-img {
+    background-image: url(../../assets/images/png/flight-img.png);
+}
+
+.home-philosophy-bg-img,
+.home-achievement-bg-img,
+.home-certifications-bg-img,
+.home-global-footprint-bg-img {
+    background-image: url(../../assets/images/png/wave-img.png);
+}
+
+.review-card,
+.award-card {
+    box-shadow: 0 8px 24px #959da533;
+}
+
+.review-sticky {
+    position: sticky;
+    top: 30%;
+}
+
+.home-certifications-section .swiper-wrapper {
+    transition-timing-function: linear !important;
+}
+
+.home-certifications-section .swiper {
+    overflow: hidden;
+}
+
+.home-certifications-section .swiper-slide {
+    flex-shrink: 1;
+}
+
+@media screen and (max-width: 576px) {
+    .review-sticky {
+        position: relative;
+    }
+}

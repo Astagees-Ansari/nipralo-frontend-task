@@ -1,13 +1,48 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primary-btn {
+  width: 150px;
+  display: inline-block;
+  font-weight: 500;
+  background-color: transparent;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 7px 29px #64646f33;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.primary-btn span {
+  width: 100%;
+  display: block;
+  background-color: #f06c30;
+  color: #fff;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  position: relative;
+  transform-origin: 50% 0;
+  transform-style: preserve-3d;
+  transition: .3s ease-in-out all;
+  box-shadow: #64646f33 0 7px 29px;
+}
+
+.primary-btn:hover span {
+  transform: translateZ(-30px) rotateX(90deg);
+  box-shadow: #0000001a 0 4px 12px;
+}
+
+.primary-btn span::after {
+  content: attr(data-title);
+  width: 100%;
+  display: block;
+  background-color: #9fa1a4;
+  color: #3a3738;
+  padding: 7px 0px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform-origin: 50% 0;
+  transform: translate3d(0, 105%, 0) rotateX(-90deg);
+  transition: .3s ease-in-out all;
+  box-shadow: #64646f33 0 7px 29px;
 }
