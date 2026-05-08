@@ -36,7 +36,7 @@ function Home() {
             </section>
 
             {/* ////////////// About Us Section ////////////// */}
-            <section className="home-about-us-section relative" id='home-about-us'>
+            {/* <section className="home-about-us-section relative" id='home-about-us'>
                 <div className="home-about-us-bg-img h-[70vh] md:h-[100vh] bg-top bg-cover">
                     <img src={smokeImg} alt="" className='absolute top-0 left-0 w-full h-[120vh]' />
                     <div className="w-[85%] lg:w-[70%] xl:w-[60%] flex flex-col md:flex-row items-center md:gap-[40px] mx-auto pt-6 relative">
@@ -49,6 +49,29 @@ function Home() {
                                 Penta Freight provides reliable <span className="font-[700]">logistics solutions</span>, specializing in
                                 temperature-sensitive shipments.We ensure safe, <span className="font-[700]">on-time delivery</span> worldwide.
                                 Trust us for seamless supply chain management.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section> */}
+            <section className="home-about-us-section relative" id='home-about-us'>
+                <div className="home-about-us-bg-img h-[70vh] md:h-[100vh] bg-top bg-cover">
+                    <img src={smokeImg} alt="" className='absolute top-0 left-0 w-full h-[120vh]' />
+                    <div className="w-[85%] lg:w-[70%] xl:w-[60%] flex flex-col md:flex-row items-center md:gap-[40px] mx-auto pt-6 relative">
+                        <div className="w-[60%] flex flex-col items-center">
+                            <h2 className="py-3 font-bold text-vivid-yangelo">ABOUT US</h2>
+                            <p className="py-3 font-bold text-vivid-yangelo border-t-vivid-yangelo border-t-[3px]">PENTA FREIGHT</p>
+                        </div>
+                        <div className="flex">
+                            <p className="text-center md:text-start text-[16px] md:text-[20px] font-light text-fiord 
+                                bg-white/60 md:bg-transparent backdrop-blur-sm md:backdrop-blur-none 
+                                    rounded-lg p-2 md:p-0"
+                            >
+                                Penta Freight provides reliable{" "}
+                                <span className="font-[700]">logistics solutions</span>, specializing in
+                                temperature-sensitive shipments. We ensure safe,{" "}
+                                <span className="font-[700]">on-time delivery</span> worldwide. Trust us
+                                for seamless supply chain management.
                             </p>
                         </div>
                     </div>

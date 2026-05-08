@@ -79,31 +79,31 @@ export const cardStackCards = [
         ],
         points: ["Accuracy", "Compliance", "Speed", "Expertise"]
     },
-    {
-        id: 4,
-        imgSrc: cardCutom,
-        title: "Custom Broking",
-        paras: [
-            "Our licensed customs agents know domestic and international regulations.",
-            "With 30+ years of experience, we have strong ties with authorities and handle all clearance challenges.",
-            "We ensure smooth, timely, and transparent cargo clearance. Our experts get your documentation right the first time.",
-        ],
-        points: ["Integration", "Efficiency", "Visibility", "Convenience"]
-    },
-    {
-        id: 5,
-        imgSrc: cardTrans,
-        title: "Project Cargo",
-        paras: [
-            "We understand the precise needs of customers and shipping lines, ensuring cargo is stuffed, lashed, and choked to specifications.",
-            "We handle logistics, clearance, and oversized or breakbulk cargo with expertise.",
-            "We transport over-dimensional cargo using open tops, flat racks, and flatbeds.",
-        ],
-        points: ["Precision", "Expertise", "Oversized", "Security"]
-    },
+    // {
+    //     id: 4,
+    //     imgSrc: cardCutom,
+    //     title: "Custom Broking",
+    //     paras: [
+    //         "Our licensed customs agents know domestic and international regulations.",
+    //         "With 30+ years of experience, we have strong ties with authorities and handle all clearance challenges.",
+    //         "We ensure smooth, timely, and transparent cargo clearance. Our experts get your documentation right the first time.",
+    //     ],
+    //     points: ["Integration", "Efficiency", "Visibility", "Convenience"]
+    // },
+    // {
+    //     id: 5,
+    //     imgSrc: cardWhere,
+    //     title: "Project Cargo",
+    //     paras: [
+    //         "We understand the precise needs of customers and shipping lines, ensuring cargo is stuffed, lashed, and choked to specifications.",
+    //         "We handle logistics, clearance, and oversized or breakbulk cargo with expertise.",
+    //         "We transport over-dimensional cargo using open tops, flat racks, and flatbeds.",
+    //     ],
+    //     points: ["Precision", "Expertise", "Oversized", "Security"]
+    // },
     {
         id: 6,
-        imgSrc: cardWhere,
+        imgSrc: cardTrans,
         title: "Transit Warehouse and Fleet",
         paras: [
             "Our transit warehouse is near the International Air Cargo Complex and Ocean Ports.",
