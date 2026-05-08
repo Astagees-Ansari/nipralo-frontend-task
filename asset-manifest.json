@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/nipralo-frontend-task/static/css/main.a65095e4.css",
+    "main.js": "/nipralo-frontend-task/static/js/main.8ed57b6b.js",
+    "static/js/453.830e6f7b.chunk.js": "/nipralo-frontend-task/static/js/453.830e6f7b.chunk.js",
+    "static/media/homevideo.mp4": "/nipralo-frontend-task/static/media/homevideo.4efd1e9ca70f5345adeb.mp4",
+    "static/media/pentakuhl-video.mp4": "/nipralo-frontend-task/static/media/pentakuhl-video.ead38b34c3a55158f8f5.mp4",
+    "static/media/card-truck.png": "/nipralo-frontend-task/static/media/card-truck.fcca4e824a97264381bb.png",
+    "static/media/card-ship.png": "/nipralo-frontend-task/static/media/card-ship.c5b8cfd6b304a6edd758.png",
+    "static/media/card-where.png": "/nipralo-frontend-task/static/media/card-where.d8036a3a4e53db8972b9.png",
+    "static/media/card-trans.png": "/nipralo-frontend-task/static/media/card-trans.6241e05826decde86658.png",
+    "static/media/card-air.png": "/nipralo-frontend-task/static/media/card-air.5b38a24ce5677b8cace4.png",
+    "static/media/card-custom.jpg": "/nipralo-frontend-task/static/media/card-custom.906a33fcf21d5c1c4eeb.jpg",
+    "static/media/industries-parallax.jpeg": "/nipralo-frontend-task/static/media/industries-parallax.8d41bd263e3ab4701a53.jpeg",
+    "static/media/pentakuhl-parallax.jpeg": "/nipralo-frontend-task/static/media/pentakuhl-parallax.400a822e94da7f3c2d45.jpeg",
+    "static/media/peli-logo.png": "/nipralo-frontend-task/static/media/peli-logo.3c377f5b3c7bf789b43d.png",
+    "static/media/aeo.png": "/nipralo-frontend-task/static/media/aeo.d2bfbdeeee3ba4766b5d.png",
+    "static/media/flight-img.png": "/nipralo-frontend-task/static/media/flight-img.65f889caa65f378ab5d5.png",
+    "static/media/home-philosophy-bg-img.png": "/nipralo-frontend-task/static/media/home-philosophy-bg-img.11d5d3bfde51fe2f5b74.png",
+    "static/media/wave-img.png": "/nipralo-frontend-task/static/media/wave-img.11d5d3bfde51fe2f5b74.png",
+    "static/media/map.webp": "/nipralo-frontend-task/static/media/map.0cbddf8fbc4308972b8c.webp",
+    "static/media/credocube-logo.png": "/nipralo-frontend-task/static/media/credocube-logo.62f1434c80c4568bcd5f.png",
+    "static/media/coolpall-advance-logo.png": "/nipralo-frontend-task/static/media/coolpall-advance-logo.31dc0de8c31c62823a00.png",
+    "static/media/smoke-bg.png": "/nipralo-frontend-task/static/media/smoke-bg.a07368ff709bd7405275.png",
+    "static/media/coolguard-advance-logo.png": "/nipralo-frontend-task/static/media/coolguard-advance-logo.eb425ea414d64397eb04.png",
+    "static/media/gdp.png": "/nipralo-frontend-task/static/media/gdp.9726a243d29c192d4213.png",
+    "static/media/coolguard-logo.png": "/nipralo-frontend-task/static/media/coolguard-logo.089e8ed0ad3b09686aaf.png",
+    "static/media/bchaa.png": "/nipralo-frontend-task/static/media/bchaa.5d1f4bcca71ca3b86bf3.png",
+    "static/media/acfi.png": "/nipralo-frontend-task/static/media/acfi.beb05e0f604b0dc9540e.png",
+    "static/media/credocargo-logo.png": "/nipralo-frontend-task/static/media/credocargo-logo.1c4269f8135a468b6523.png",
+    "static/media/credoextreme-logo.png": "/nipralo-frontend-task/static/media/credoextreme-logo.63ce878c756bd562956e.png",
+    "static/media/accai.png": "/nipralo-frontend-task/static/media/accai.ebe69e047747ac36f45d.png",
+    "index.html": "/nipralo-frontend-task/index.html",
+    "main.a65095e4.css.map": "/nipralo-frontend-task/static/css/main.a65095e4.css.map",
+    "main.8ed57b6b.js.map": "/nipralo-frontend-task/static/js/main.8ed57b6b.js.map",
+    "453.830e6f7b.chunk.js.map": "/nipralo-frontend-task/static/js/453.830e6f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a65095e4.css",
+    "static/js/main.8ed57b6b.js"
+  ]
+}
