@@ -8,7 +8,7 @@ import Pentakhul from './pages/Pentakhul'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/nipralo-frontend-task'>
       <ScrollToTop />
       <Routes>
         <Route element={<MainLayout />}>
