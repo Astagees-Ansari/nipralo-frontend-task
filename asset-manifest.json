@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nipralo-frontend-task/static/css/main.a65095e4.css",
-    "main.js": "/nipralo-frontend-task/static/js/main.8ed57b6b.js",
+    "main.css": "/nipralo-frontend-task/static/css/main.28f17a5a.css",
+    "main.js": "/nipralo-frontend-task/static/js/main.25411d12.js",
     "static/js/453.830e6f7b.chunk.js": "/nipralo-frontend-task/static/js/453.830e6f7b.chunk.js",
     "static/media/homevideo.mp4": "/nipralo-frontend-task/static/media/homevideo.4efd1e9ca70f5345adeb.mp4",
     "static/media/pentakuhl-video.mp4": "/nipralo-frontend-task/static/media/pentakuhl-video.ead38b34c3a55158f8f5.mp4",
@@ -17,7 +17,6 @@
     "static/media/aeo.png": "/nipralo-frontend-task/static/media/aeo.d2bfbdeeee3ba4766b5d.png",
     "static/media/flight-img.png": "/nipralo-frontend-task/static/media/flight-img.65f889caa65f378ab5d5.png",
     "static/media/home-philosophy-bg-img.png": "/nipralo-frontend-task/static/media/home-philosophy-bg-img.11d5d3bfde51fe2f5b74.png",
-    "static/media/wave-img.png": "/nipralo-frontend-task/static/media/wave-img.11d5d3bfde51fe2f5b74.png",
     "static/media/map.webp": "/nipralo-frontend-task/static/media/map.0cbddf8fbc4308972b8c.webp",
     "static/media/credocube-logo.png": "/nipralo-frontend-task/static/media/credocube-logo.62f1434c80c4568bcd5f.png",
     "static/media/coolpall-advance-logo.png": "/nipralo-frontend-task/static/media/coolpall-advance-logo.31dc0de8c31c62823a00.png",
@@ -31,12 +30,12 @@
     "static/media/credoextreme-logo.png": "/nipralo-frontend-task/static/media/credoextreme-logo.63ce878c756bd562956e.png",
     "static/media/accai.png": "/nipralo-frontend-task/static/media/accai.ebe69e047747ac36f45d.png",
     "index.html": "/nipralo-frontend-task/index.html",
-    "main.a65095e4.css.map": "/nipralo-frontend-task/static/css/main.a65095e4.css.map",
-    "main.8ed57b6b.js.map": "/nipralo-frontend-task/static/js/main.8ed57b6b.js.map",
+    "main.28f17a5a.css.map": "/nipralo-frontend-task/static/css/main.28f17a5a.css.map",
+    "main.25411d12.js.map": "/nipralo-frontend-task/static/js/main.25411d12.js.map",
     "453.830e6f7b.chunk.js.map": "/nipralo-frontend-task/static/js/453.830e6f7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a65095e4.css",
-    "static/js/main.8ed57b6b.js"
+    "static/css/main.28f17a5a.css",
+    "static/js/main.25411d12.js"
   ]
 }
